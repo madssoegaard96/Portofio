@@ -1,2 +1,6 @@
 # Portofio
-My Portfolio
+My Portfolio consisting of 
+-Portfolio frontpage 
+-Contact
+-Projects
+-About
